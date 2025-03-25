@@ -1,6 +1,6 @@
 # Sprunkabout Adventure
 
-![Sprunkabout Adventure](https://raw.githubusercontent.com/sprunkiscrunkly/sprunkabout/refs/heads/main/sprunkabout-adventure.png "Sprunkabout Adventure")
+![Sprunkabout Adventure](https://raw.githubusercontent.com/sprunkiscrunkly/sprunkabout/refs/heads/main/sprunkabout.png "Sprunkabout Adventure")
 
 👉👉 Jump into action - Original Edition: [Sprunkabout Adventure](https://sprunksters.com/sprunkabout/ "Sprunkabout Adventure")
 
